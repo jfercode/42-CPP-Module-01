@@ -1,5 +1,5 @@
 # Static library name
-NAME		= Moar_brainz!
+NAME		= ex01
 
 # Compiler and flags
 CXX			= c++

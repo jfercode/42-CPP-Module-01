@@ -1,12 +1,12 @@
 # Static library name
-NAME		= ex00
+NAME		= ex03
 
 # Compiler and flags
 CXX			= c++
-CXXFLAGS	= -Wall -Wextra -Werror -std=c++98
+CXXFLAGS	= -Wall -Wextra -Werror -g -std=c++98
 
 # Directories and files
-SRC			= source/Zombie.cpp source/newZombie.cpp source/randomChump.cpp main.cpp
+SRC			= main.cpp source/Weapon.cpp source/HumanA.cpp source/HumanB.cpp 
 OBJ			= $(SRC:.cpp=.o)
 
 all:	$(NAME)

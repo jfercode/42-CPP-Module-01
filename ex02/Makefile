@@ -1,5 +1,5 @@
 # Static library name
-NAME		= HI_THIS_IS_BRAIN
+NAME		= ex02
 
 # Compiler and flags
 CXX			= c++
