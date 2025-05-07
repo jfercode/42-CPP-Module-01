@@ -6,7 +6,7 @@
 /*   By: jaferna2 < jaferna2@student.42madrid.co    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/07 16:08:30 by jaferna2          #+#    #+#             */
-/*   Updated: 2025/05/07 16:47:49 by jaferna2         ###   ########.fr       */
+/*   Updated: 2025/05/07 17:01:14 by jaferna2         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,4 +29,4 @@ class Weapon
 		std::string	_type;
 };
 
-#endif __WEAPON_HPP__
+#endif /*	__WEAPON_HPP__	*/

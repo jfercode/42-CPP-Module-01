@@ -44,6 +44,13 @@
         "ostream": "cpp",
         "ranges": "cpp",
         "stdexcept": "cpp",
-        "streambuf": "cpp"
+        "streambuf": "cpp",
+        "ctime": "cpp",
+        "chrono": "cpp",
+        "codecvt": "cpp",
+        "ratio": "cpp",
+        "fstream": "cpp",
+        "iomanip": "cpp",
+        "sstream": "cpp"
     }
 }
