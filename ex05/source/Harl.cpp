@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   Harl.cpp                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jaferna2 < jaferna2@student.42madrid.co    +#+  +:+       +#+        */
+/*   By: jaferna2 <jaferna2@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/07 18:56:29 by jaferna2          #+#    #+#             */
-/*   Updated: 2025/05/07 19:00:40 by jaferna2         ###   ########.fr       */
+/*   Updated: 2025/05/10 12:41:05 by jaferna2         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -41,24 +41,32 @@ void    Harl::complain( std::string level )
 
 void    Harl::debug( void )
 {
-    std::cout << "[ DEBUG MESSAGE ] This is a debug message from my friend Harl"
+    std::cout << "[ DEBUG MESSAGE ]" 
+              << std::endl 
+              << "This is a debug message from my friend Harl"
               << std::endl;
 }
 
 void    Harl::info( void )
 {
-    std::cout << "[ INFO MESSAGE ] This is an info message from my friend Harl"
+    std::cout << "[ INFO MESSAGE ]" 
+              << std::endl 
+              << "This is an info message from my friend Harl"
               << std::endl;   
 }
 
 void    Harl::warning( void )
 {
-    std::cout << "[ WARNING MESSAGE ] This is a warning message from my friend Harl"
+    std::cout << "[ WARNING MESSAGE ]"
+              << std::endl
+              << "This is a warning message from my friend Harl"
               << std::endl;    
 }
 
 void    Harl::error( void )
 {
-    std::cout << "[ ERROR MESSAGE ] this is an error message from my friend Harl"
+    std::cout << "[ ERROR MESSAGE ]"
+              << std::endl 
+              << "This is an error message from my friend Harl"
               << std::endl;
 }

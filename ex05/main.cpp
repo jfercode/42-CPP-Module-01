@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   main.cpp                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jaferna2 < jaferna2@student.42madrid.co    +#+  +:+       +#+        */
+/*   By: jaferna2 <jaferna2@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/07 18:57:24 by jaferna2          #+#    #+#             */
-/*   Updated: 2025/05/07 18:57:55 by jaferna2         ###   ########.fr       */
+/*   Updated: 2025/05/10 12:19:42 by jaferna2         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,8 +30,7 @@ int main ( void )
     harl.complain("ERROR");
     std::cout << "Calling harl to a unknowed parameter"
               << std::endl;
-    std::cout << "Calling harl to complain about debug"
-              << std::endl;
     harl.complain("PATATA");
-    return ( NULL );
+    return ( 0 );
 }
+
