@@ -197,7 +197,19 @@ const int* const ptr3; // Ambos
 
 ---
 
-## ✨ ¿Qué sigue?
+## Autor 🤝💡📬
 
-El **CPP Module 02** se centrará en sobrecarga de operadores, herencia simple y la famosa **Regla de los Tres**.
-¿Quieres que lo prepare con el mismo formato también? 😎
+<div align="center">
+  <tr>
+	<td align="center">
+	  <a href="https://github.com/jfercode">
+	   <img src="https://github.com/jfercode.png" width="100px" alt="Javier Fernández Correa" />
+		<br />
+		<sub><b>Javier Fernández Correa</b></sub>
+	  </a>
+</div>
+
+
+## Licencia 📜✅🗝️
+
+Este proyecto está bajo la licencia MIT. ⚖️📄🆓
