@@ -8,14 +8,14 @@
 
 ## 📚 Tabla de Contenidos
 
-1. [Referencias (`&`)](#1-referencias-)
-2. [Punteros y Memoria Dinámica (`*`, `new`, `delete`)](#2-punteros-y-memoria-dinámica--new-delete)
-3. [Inicialización de Objetos](#3-inicialización-de-objetos)
-4. [Constructores por Copia](#4-constructores-por-copia)
-5. [Destructores Personalizados](#5-destructores-personalizados)
-6. [Const y `const` correctness](#6-const-y-const-correctness)
-7. [Errores Comunes](#7-errores-comunes)
-8. [Buenas Prácticas](#8-buenas-prácticas)
+1. [Referencias (`&`)](#-1-referencias-)
+2. [Punteros y Memoria Dinámica (`*`, `new`, `delete`)](#-2-punteros-y-memoria-dinámica--new-delete)
+3. [Inicialización de Objetos](#-3-inicialización-de-objetos)
+4. [Constructores por Copia](#-4-constructores-por-copia)
+5. [Destructores Personalizados](#-5-destructores-personalizados)
+6. [Const y `const` correctness](#-6-const-y-const-correctness)
+7. [Errores Comunes](#-7-errores-comunes)
+8. [Buenas Prácticas](#-8-buenas-prácticas)
 
 ---
 
