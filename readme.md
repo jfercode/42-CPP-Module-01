@@ -1,7 +1,3 @@
-¡Perfecto! Entonces vamos con el README detallado para **CPP Module 01**, siguiendo el mismo estilo visual, pedagógico y estructurado que el de CPP00.
-
----
-
 # 🧠 CPP Module 01 – Punteros, Memoria Dinámica y Referencias
 
 > ✅ Objetivo: Comprender cómo maneja C++ la memoria, y cómo usar punteros, referencias y constructores especiales
